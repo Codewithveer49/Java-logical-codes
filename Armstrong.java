@@ -1,4 +1,5 @@
 package practice;
+// this code is for armstrong numbers from 1 - 100000;
 
 import java.util.Scanner;
 
